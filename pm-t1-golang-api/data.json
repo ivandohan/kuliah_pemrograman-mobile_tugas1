@@ -1,0 +1,172 @@
+{
+  "students": [
+    {
+      "id": "211402067",
+      "name": "Ivandohan Samuel Siregar",
+      "email": "srgivando@gmail.com",
+      "faculty": "Computer Science",
+      "major": "Information Technology",
+      "class year": "2021",
+      "isActive": "active",
+      "current semester": 5,
+      "image url": "/images/students/211402067.jpg"
+    },
+    {
+      "id": "211402073",
+      "name": "Vita Sariani Br. Sembiring",
+      "email": "vitasariani12@gmail.com",
+      "faculty": "Computer Science",
+      "major": "Information Technology",
+      "class year": "2021",
+      "isActive": "active",
+      "current semester": 5,
+      "image url": "/images/students/211402067.jpg"
+    },
+    {
+      "id": "211402088",
+      "name": "Steven Manurung",
+      "email": "steven.mrng43@gmail.com",
+      "faculty": "Computer Science",
+      "major": "Information Technology",
+      "class year": "2021",
+      "isActive": "active",
+      "current semester": 5,
+      "image url": "/images/students/211402067.jpg"
+    },
+    {
+      "id": "211402142",
+      "name": "Trifine Laurensi Br Ginting",
+      "email": "trifine.laurensi08@gmail.com",
+      "faculty": "Computer Science",
+      "major": "Information Technology",
+      "class year": "2021",
+      "isActive": "active",
+      "current semester": 5,
+      "image url": "/images/students/211402067.jpg"
+    },
+    {
+      "id": "201401082",
+      "name": "Hajarani Syadzwana",
+      "email": "hajaranisyadzwana09@gmail.com",
+      "faculty": "Computer Science",
+      "major": "Computer Science",
+      "class year": "2020",
+      "isActive": "active",
+      "current semester": 7,
+      "image url": "/images/students/211402067.jpg"
+    },
+    {
+      "id": "201402002",
+      "name": "Baginda Hamonangan Harahap",
+      "email": "bagindaharahap355@gmail.com",
+      "faculty": "Computer Science",
+      "major": "Information Technology",
+      "class year": "2020",
+      "isActive": "active",
+      "current semester": 7,
+      "image url": "/images/students/211402067.jpg"
+    },
+    {
+      "id": "211402001",
+      "name": "Geboy Donny Aurora Sinaga",
+      "email": "GeboyDonny27@gmail.com",
+      "faculty": "Computer Science",
+      "major": "Information Technology",
+      "class year": "2021",
+      "isActive": "active",
+      "current semester": 5,
+      "image url": "/images/students/211402067.jpg"
+    },
+    {
+      "id": "201401127",
+      "name": "Petrus Marcelino H. Tampubolon",
+      "email": "petrus.marcellino15@gmail.com",
+      "faculty": "Computer Science",
+      "major": "Computer Science",
+      "class year": "2020",
+      "isActive": "active",
+      "current semester": 7,
+      "image url": "/images/students/211402067.jpg"
+    },
+    {
+      "id": "201401107",
+      "name": "Venerio Uvandy",
+      "email": "veneriouvandy@gmail.com",
+      "faculty": "Computer Science",
+      "major": "Computer Science",
+      "class year": "2020",
+      "isActive": "active",
+      "current semester": 7,
+      "image url": "/images/students/211402067.jpg"
+    },
+    {
+     "id": "211402034",
+      "name": "Deza Banjarnahor",
+      "email": "dezabanjarnahor@gmail.com",
+      "faculty": "Computer Science",
+      "major": "Information Technology",
+      "class year": "2021",
+      "isActive": "active",
+      "current semester": 5,
+      "image url": "/images/students/211402067.jpg"
+    } 
+  ],
+  "teachers": [
+    {
+      "id": "Put teacher_id here",
+      "name": "Prof. Dr. Drs. Opim Salim Sitompul M.Sc",
+      "image url": "/images/teachers/nidn.jpg"
+    },
+    {
+      "id": "Put teacher_id here",
+      "name": "Dr. Erna Budhiarti Nababan M.IT",
+      "image url": "/images/teachers/nidn.jpg"
+    },
+    {
+      "id": "Put teacher_id here",
+      "name": "Dr. Marischa Elveny S.TI., M.Kom.",
+      "image url": "/images/teachers/nidn.jpg"
+    },
+    {
+      "id": "Put teacher_id here",
+      "name": "Dedy Arisandi S.T., M.Kom.",
+      "image url": "/images/teachers/nidn.jpg"
+    },
+    {
+      "id": "Put teacher_id here",
+      "name": "Fahrurrozi Lubis B.IT., M.Sc.IT",
+      "image url": "/images/teachers/nidn.jpg"
+    }
+  ],
+  "developers": [
+    {
+      "id": "01",
+      "name":"Ivandohan Samuel Siregar",
+      "desc": "Tell us about your self",
+      "image url": "/images/developers/dev01.jpg"
+    },
+    {
+      "id": "02",
+      "name":"Deza Banjarnahor",
+      "desc": "Tell us about your self",
+      "image url": "/images/developers/dev01.jpg"
+    },
+    {
+      "id": "03",
+      "name":"Steven Manurung",
+      "desc": "Tell us about your self",
+      "image url": "/images/developers/dev01.jpg"
+    },{
+      "id": "04",
+      "name":"Vita Sariani Br Sembiring",
+      "desc": "Tell us about your self",
+      "image url": "/images/developers/dev01.jpg"
+    },
+    {
+      "id": "05",
+      "name":"Trifine Laurensi Br Ginting",
+      "desc": "Tell us about your self",
+      "image url": "/images/developers/dev02.jpg"
+    }
+  ]
+}
