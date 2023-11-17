@@ -12,7 +12,7 @@ This application is primarily concerned with displaying detailed data from a num
 The features are quite general and rudimentary, consisting only of standard CRUD operations.
 
 ## Tech Stack
-This app is created using The _client-server_ architecture. As a result, the _client_ is the component that interacts 
+This app is created using the _client-server_ architecture. As a result, the _client_ is the component that interacts 
 with the user, whereas the _server_ is the component that processes the data transaction protocol, in this case we use RESTFul API.
 The API is intended to be _**extremely simple, with no security.**_
 
