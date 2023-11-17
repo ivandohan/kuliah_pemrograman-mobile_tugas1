@@ -8,8 +8,9 @@ import (
 func main() {
 	router := gin.Default()
 
-	router.GET("/students", utils.GetStudents)
-	router.POST("/students", utils.PostStudents)
+	router.GET("/students", utils.GetStudentsData)
+	router.GET("/teachers", utils.GetTeachersData)
+	router.GET("/developers", utils.GetDevelopersData)
 
 	router.Run("localhost:8080")
 }
