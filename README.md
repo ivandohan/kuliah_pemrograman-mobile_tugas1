@@ -5,7 +5,8 @@
 
 #### _In Progress_
 
-## Pre-view `Soon`
+## Pre-view
+Available soon...
 
 ## Description
 This application is primarily concerned with displaying detailed data from a number of students and professors who have been registered in the database.
