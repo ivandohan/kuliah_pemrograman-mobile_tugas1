@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:pm_t1_flutter_client/home_screen.dart';
+import 'package:pm_t1_flutter_client/constants/colors.dart';
+import 'package:pm_t1_flutter_client/screens/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -61,11 +62,7 @@ class _StunningSplashScreenState extends State<StunningSplashScreen> with Single
       body: Container(
         width: double.infinity,
         decoration: const BoxDecoration(
-          gradient: LinearGradient(
-            colors: [Colors.indigo, Colors.deepPurple],
-            begin: Alignment.topRight,
-            end: Alignment.bottomLeft,
-          ),
+          color: CustomAppColorA2,
         ),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
