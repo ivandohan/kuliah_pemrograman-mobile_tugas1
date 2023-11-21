@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:pm_t1_flutter_client/constants/colors.dart';
 import 'package:pm_t1_flutter_client/screens/home_screen.dart';
 import 'package:pm_t1_flutter_client/screens/name_list_screen.dart';
+import 'package:pm_t1_flutter_client/screens/person-details-screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,6 +26,7 @@ class MyApp extends StatelessWidget {
         '/': (context) => StunningSplashScreen(),
         HomeScreen.routeName: (context) => const HomeScreen(),
         NameListScreen.routeName: (context) => const NameListScreen(),
+        PersonDetailsScreen.routeName: (context) => const PersonDetailsScreen(),
       },
     );
   }
@@ -66,7 +68,7 @@ class _StunningSplashScreenState extends State<StunningSplashScreen> with Single
       body: Container(
         width: double.infinity,
         decoration: const BoxDecoration(
-          color: CustomAppColorA2,
+          color: CustomAppColorD2,
         ),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -80,14 +82,14 @@ class _StunningSplashScreenState extends State<StunningSplashScreen> with Single
                 borderRadius: BorderRadius.circular(20),
               ),
               child: const Icon(
-                Icons.accessible_forward_outlined,
+                Icons.bubble_chart_outlined,
                 size: 60,
                 color: Colors.white,
               ),
             ),
             const SizedBox(height: 20,),
             const Text(
-              "App Title",
+              "Direktori",
               style: TextStyle(
                 fontSize: 20,
                 color: Colors.white,

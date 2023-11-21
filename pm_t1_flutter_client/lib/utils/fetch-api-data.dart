@@ -3,22 +3,34 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:pm_t1_flutter_client/models/album-data-model.dart';
 import 'package:pm_t1_flutter_client/models/students-data-model.dart';
+import 'package:pm_t1_flutter_client/models/teachers-data-model.dart';
 
-Future<List<StudentsDataModel>> fetchStudentsData() async {
-  final response = await http.get(Uri.parse("http://10.0.2.2:8080/students"));
+Future fetchStudentsData(String path) async {
 
-  if(response.statusCode == 200) {
-    final data = jsonDecode(response.body);
-    var listStudent = data.map<StudentsDataModel>((json) => StudentsDataModel.fromJson(json)).toList();
-    return listStudent;
+  if(path == "Mahasiswa") {
+    final response = await http.get(Uri.parse("http://10.0.2.2:8080/students"));
+    if(response.statusCode == 200) {
+      final data = jsonDecode(response.body);
+      var listStudent = data.map<StudentsDataModel>((json) => StudentsDataModel.fromJson(json)).toList();
+      return listStudent;
+    } else {
+      throw Exception('Failed to load students data.');
+    }
   } else {
-    throw Exception('Failed to load students data.');
+    final response = await http.get(Uri.parse("http://10.0.2.2:8080/teachers"));
+    if(response.statusCode == 200) {
+      final data = jsonDecode(response.body);
+      var listStudent = data.map<TeachersDataModel>((json) => TeachersDataModel.fromJson(json)).toList();
+      return listStudent;
+    } else {
+      throw Exception('Failed to load teachers data.');
+    }
   }
 }
 
 
 // [Dohan] : Sample from Official Flutter Documentation, deleted soon.
-Future<Album> fetchAlbum() async {
+Future fetchAlbum() async {
   final response = await http
       .get(Uri.parse('https://jsonplaceholder.typicode.com/albums/1'));
 

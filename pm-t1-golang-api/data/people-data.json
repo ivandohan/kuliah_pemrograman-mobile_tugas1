@@ -8,7 +8,7 @@
       "major": "Information Technology",
       "class-year": "2021",
       "is-active": "non-active",
-      "current-semester": 5,
+      "current-semester": "5",
       "image-url": "https://portal.usu.ac.id/photos/211402067"
     },
     {
@@ -19,8 +19,19 @@
       "major": "Information Technology",
       "class-year": "2021",
       "is-active": "active",
-      "current-semester": 5,
+      "current-semester": "5",
       "image-url": "https://portal.usu.ac.id/photos/211402073"
+    },
+    {
+      "id": "211402034",
+      "name": "Deza Banjarnahor",
+      "email": "dezabanjarnahor@gmail.com",
+      "faculty": "Computer Science",
+      "major": "Information Technology",
+      "class-year": "2021",
+      "is-active": "drop-out",
+      "current-semester": "5",
+      "image-url": "https://portal.usu.ac.id/photos/211402034"
     },
     {
       "id": "211402088",
@@ -30,7 +41,7 @@
       "major": "Information Technology",
       "class-year": "2021",
       "is-active": "active",
-      "current-semester": 5,
+      "current-semester": "5",
       "image-url": "https://portal.usu.ac.id/photos/211402088"
     },
     {
@@ -41,7 +52,7 @@
       "major": "Information Technology",
       "class-year": "2021",
       "is-active": "active",
-      "current-semester": 5,
+      "current-semester": "5",
       "image-url": "https://portal.usu.ac.id/photos/211402142"
     },
     {
@@ -52,7 +63,7 @@
       "major": "Information Technology",
       "class-year": "2020",
       "is-active": "active",
-      "current-semester": 7,
+      "current-semester": "7",
       "image-url": "https://portal.usu.ac.id/photos/201402010"
     },
     {
@@ -63,7 +74,7 @@
       "major": "Information Technology",
       "class-year": "2020",
       "is-active": "active",
-      "current-semester": 7,
+      "current-semester": "7",
       "image-url": "https://portal.usu.ac.id/photos/201402002"
     },
     {
@@ -74,7 +85,7 @@
       "major": "Information Technology",
       "class-year": "2021",
       "is-active": "active",
-      "current-semester": 5,
+      "current-semester": "5",
       "image-url": "https://portal.usu.ac.id/photos/211402001"
     },
     {
@@ -85,7 +96,7 @@
       "major": "Information Technology",
       "class-year": "2020",
       "is-active": "active",
-      "current-semester": 7,
+      "current-semester": "7",
       "image-url": "https://portal.usu.ac.id/photos/201402022"
     },
     {
@@ -96,46 +107,35 @@
       "major": "Information Technology",
       "class-year": "2021",
       "is-active": "active",
-      "current-semester": 5,
+      "current-semester": "5",
       "image-url": "https://portal.usu.ac.id/photos/211402150"
-    },
-    {
-      "id": "211402034",
-      "name": "Deza Banjarnahor",
-      "email": "dezabanjarnahor@gmail.com",
-      "faculty": "Computer Science",
-      "major": "Information Technology",
-      "class-year": "2021",
-      "is-active": "drop-out",
-      "current-semester": 5,
-      "image-url": "https://portal.usu.ac.id/photos/211402034"
     }
   ],
   "teachers": [
     {
-      "id": "Put teacher_id here",
-      "name": "Prof. Dr. Drs. Opim Salim Sitompul M.Sc",
-      "image-url": "https://simsdm.usu.ac.id/photos/196108171987011001.jpg?v=1513137417?t=1700574885"
-    },
-    {
-      "id": "Put teacher_id here",
-      "name": "Dr. Erna Budhiarti Nababan M.IT",
-      "image-url": "/images/teachers/nidn.jpg"
-    },
-    {
-      "id": "Put teacher_id here",
+      "id": "196210262017042001",
       "name": "Dr. Marischa Elveny S.TI., M.Kom.",
-      "image-url": "https://simsdm.usu.ac.id/photos/196210262017042001.jpg?v=1512746626?t=1700574911"
+      "image-url": "https://simsdm.usu.ac.id/photos/199003202017062001.jpg?v=1513249987?t=1700586751"
     },
     {
-      "id": "Put teacher_id here",
+      "id": "197908312009121002",
       "name": "Dedy Arisandi S.T., M.Kom.",
       "image-url": "https://simsdm.usu.ac.id/photos/MTExMy0xNjQwMDkzMjgw.jpg?t=1700574933"
     },
     {
-      "id": "Put teacher_id here",
-      "name": "Fahrurrozi Lubis B.IT., M.Sc.IT",
-      "image-url": "https://simsdm.usu.ac.id/photos/198610122018052001.jpg?v=1525393972?t=1700574968"
+      "id": "198407072015041001",
+      "name": "Ivan Jaya S.Si., M.Kom.",
+      "image-url": "https://simsdm.usu.ac.id/photos/198407072015041001.jpg?v=1512619154?t=1700585444"
+    },
+    {
+      "id": "196108171987011001",
+      "name": "Prof. Dr. Drs. Opim Salim Sitompul M.Sc",
+      "image-url": "https://simsdm.usu.ac.id/photos/196108171987011001.jpg?v=1513137417?t=1700574885"
+    },
+    {
+      "id": "196210262017042001",
+      "name": "Dr. Erna Budhiarti Nababan M.IT",
+      "image-url": "https://simsdm.usu.ac.id/photos/196210262017042001.jpg?v=1512746626?t=1700585352"
     }
   ],
   "developers": [

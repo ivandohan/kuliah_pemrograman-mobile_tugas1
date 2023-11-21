@@ -123,12 +123,12 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
           ),
           const BoxAdapterCardWidget(
-            imageUrl: dosenCardImageLink,
-            directorySum: "Dosen",
-          ),
-          const BoxAdapterCardWidget(
             imageUrl: mahasiswaCardImageLink,
             directorySum: "Mahasiswa",
+          ),
+          const BoxAdapterCardWidget(
+            imageUrl: dosenCardImageLink,
+            directorySum: "Dosen",
           ),
 
           SliverToBoxAdapter(

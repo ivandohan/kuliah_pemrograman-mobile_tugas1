@@ -1,8 +1,8 @@
 import 'dart:ui';
 
-const CustomAppColorA1 = Color(0xFF594545);
-const CustomAppColorA2 = Color(0xFF815B5B);
-const CustomAppColorA3 = Color(0xFF9E7676);
+const CustomAppColorA1 = Color(0xFF274b58);
+const CustomAppColorA2 = Color(0xFF3A727F);
+const CustomAppColorA3 = Color(0xFF6fb1b4);
 const CustomAppColorA4 = Color(0xFFFFF8EA);
 
 const CustomAppColorB1 = Color(0xFF884A39);

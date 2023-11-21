@@ -39,7 +39,7 @@ class StudentsDataModel {
     major: facultyValues.map[json["major"]]!,
     classYear: json["class-year"],
     isActive: isActiveValues.map[json["is-active"]]!,
-    currentSemester: json["current-semester"],
+    currentSemester: json["current-semester"].toString(),
     imageUrl: json["image-url"],
   );
 
@@ -75,7 +75,7 @@ enum IsActive {
 final isActiveValues = EnumValues({
   "active": IsActive.ACTIVE,
   "drop-out": IsActive.DROP_OUT,
-  "non-active": IsActive.NON_ACTIVE
+  "non-active": IsActive.NON_ACTIVE,
 });
 
 class EnumValues<T> {
