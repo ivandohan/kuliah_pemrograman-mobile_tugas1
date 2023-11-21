@@ -4,6 +4,7 @@ import 'package:pm_t1_flutter_client/constants/imageLinks.dart';
 import 'package:pm_t1_flutter_client/widgets/box_adapter_card_widget.dart';
 
 class HomeScreen extends StatefulWidget {
+  static String routeName = "/landing-page";
   const HomeScreen({super.key});
 
   @override
@@ -48,12 +49,22 @@ class _HomeScreenState extends State<HomeScreen> {
                           ? 0.0
                           : 1.0,
                       // opacity: 1.0,
-                      child: const Text(
-                        "Prodi Teknologi Informasi USU",
-                        style: TextStyle(
-                          fontSize: 10.0,
-                          fontWeight: FontWeight.w400,
-                        ),
+                      child: const Row(
+                        children: [
+                          Icon(
+                            Icons.business_sharp,
+                            color: Colors.white,
+                            size: 10.0,
+                          ),
+                          SizedBox(width: 10,),
+                          Text(
+                            "Prodi Teknologi Informasi USU",
+                            style: TextStyle(
+                              fontSize: 10.0,
+                              fontWeight: FontWeight.w400,
+                            ),
+                          ),
+                        ],
                       ),
                     ),
                     background: Container(

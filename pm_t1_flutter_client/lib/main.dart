@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:pm_t1_flutter_client/constants/colors.dart';
 import 'package:pm_t1_flutter_client/screens/home_screen.dart';
+import 'package:pm_t1_flutter_client/screens/name_list_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -9,7 +10,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-  
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -19,7 +20,12 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const StunningSplashScreen(),
+      initialRoute: '/',
+      routes: {
+        '/': (context) => StunningSplashScreen(),
+        HomeScreen.routeName: (context) => const HomeScreen(),
+        NameListScreen.routeName: (context) => const NameListScreen(),
+      },
     );
   }
 }
@@ -41,21 +47,19 @@ class _StunningSplashScreenState extends State<StunningSplashScreen> with Single
     SystemChrome.setEnabledSystemUIMode(SystemUiMode.immersive);
 
     Future.delayed(const Duration(seconds: 2), () {
-      Navigator.of(context).pushReplacement(MaterialPageRoute(
-        builder: (_) => const HomeScreen()
-      ));
+      Navigator.pushReplacementNamed(context, HomeScreen.routeName);
     });
   }
-  
-  
+
+
   @override
   void dispose() {
     // TODO: implement dispose
     SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: SystemUiOverlay.values);
-    
+
     super.dispose();
   }
-  
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(

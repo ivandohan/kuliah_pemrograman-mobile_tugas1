@@ -7,9 +7,9 @@
       "faculty": "Computer Science",
       "major": "Information Technology",
       "class-year": "2021",
-      "is-active": "active",
+      "is-active": "non-active",
       "current-semester": 5,
-      "image-url": "/images/students/211402067.jpg"
+      "image-url": "https://portal.usu.ac.id/photos/211402067"
     },
     {
       "id": "211402073",
@@ -20,7 +20,7 @@
       "class-year": "2021",
       "is-active": "active",
       "current-semester": 5,
-      "image-url": "/images/students/211402067.jpg"
+      "image-url": "https://portal.usu.ac.id/photos/211402073"
     },
     {
       "id": "211402088",
@@ -31,7 +31,7 @@
       "class-year": "2021",
       "is-active": "active",
       "current-semester": 5,
-      "image-url": "/images/students/211402067.jpg"
+      "image-url": "https://portal.usu.ac.id/photos/211402088"
     },
     {
       "id": "211402142",
@@ -42,18 +42,18 @@
       "class-year": "2021",
       "is-active": "active",
       "current-semester": 5,
-      "image-url": "/images/students/211402067.jpg"
+      "image-url": "https://portal.usu.ac.id/photos/211402142"
     },
     {
-      "id": "201401082",
-      "name": "Hajarani Syadzwana",
-      "email": "hajaranisyadzwana09@gmail.com",
+      "id": "201402010",
+      "name": "Monika Angelia Panjaitan",
+      "email": "monikaangelia273@gmail.com",
       "faculty": "Computer Science",
-      "major": "Computer Science",
+      "major": "Information Technology",
       "class-year": "2020",
       "is-active": "active",
       "current-semester": 7,
-      "image-url": "/images/students/211402067.jpg"
+      "image-url": "https://portal.usu.ac.id/photos/201402010"
     },
     {
       "id": "201402002",
@@ -64,7 +64,7 @@
       "class-year": "2020",
       "is-active": "active",
       "current-semester": 7,
-      "image-url": "/images/students/211402067.jpg"
+      "image-url": "https://portal.usu.ac.id/photos/201402002"
     },
     {
       "id": "211402001",
@@ -75,29 +75,29 @@
       "class-year": "2021",
       "is-active": "active",
       "current-semester": 5,
-      "image-url": "/images/students/211402067.jpg"
+      "image-url": "https://portal.usu.ac.id/photos/211402001"
     },
     {
-      "id": "201401127",
-      "name": "Petrus Marcelino H. Tampubolon",
-      "email": "petrus.marcellino15@gmail.com",
+      "id": "201402022",
+      "name": "Ivan Tandella",
+      "email": "ivantandella2@gmail.com",
       "faculty": "Computer Science",
-      "major": "Computer Science",
+      "major": "Information Technology",
       "class-year": "2020",
       "is-active": "active",
       "current-semester": 7,
-      "image-url": "/images/students/211402067.jpg"
+      "image-url": "https://portal.usu.ac.id/photos/201402022"
     },
     {
-      "id": "201401107",
-      "name": "Venerio Uvandy",
-      "email": "veneriouvandy@gmail.com",
+      "id": "201402150",
+      "name": "Deni Putra Sitanggang",
+      "email": "putrastg57@gmail.com",
       "faculty": "Computer Science",
-      "major": "Computer Science",
-      "class-year": "2020",
+      "major": "Information Technology",
+      "class-year": "2021",
       "is-active": "active",
-      "current-semester": 7,
-      "image-url": "/images/students/211402067.jpg"
+      "current-semester": 5,
+      "image-url": "https://portal.usu.ac.id/photos/211402150"
     },
     {
       "id": "211402034",
@@ -106,16 +106,16 @@
       "faculty": "Computer Science",
       "major": "Information Technology",
       "class-year": "2021",
-      "is-active": "active",
+      "is-active": "drop-out",
       "current-semester": 5,
-      "image-url": "/images/students/211402067.jpg"
+      "image-url": "https://portal.usu.ac.id/photos/211402034"
     }
   ],
   "teachers": [
     {
       "id": "Put teacher_id here",
       "name": "Prof. Dr. Drs. Opim Salim Sitompul M.Sc",
-      "image-url": "/images/teachers/nidn.jpg"
+      "image-url": "https://simsdm.usu.ac.id/photos/196108171987011001.jpg?v=1513137417?t=1700574885"
     },
     {
       "id": "Put teacher_id here",
@@ -125,17 +125,17 @@
     {
       "id": "Put teacher_id here",
       "name": "Dr. Marischa Elveny S.TI., M.Kom.",
-      "image-url": "/images/teachers/nidn.jpg"
+      "image-url": "https://simsdm.usu.ac.id/photos/196210262017042001.jpg?v=1512746626?t=1700574911"
     },
     {
       "id": "Put teacher_id here",
       "name": "Dedy Arisandi S.T., M.Kom.",
-      "image-url": "/images/teachers/nidn.jpg"
+      "image-url": "https://simsdm.usu.ac.id/photos/MTExMy0xNjQwMDkzMjgw.jpg?t=1700574933"
     },
     {
       "id": "Put teacher_id here",
       "name": "Fahrurrozi Lubis B.IT., M.Sc.IT",
-      "image-url": "/images/teachers/nidn.jpg"
+      "image-url": "https://simsdm.usu.ac.id/photos/198610122018052001.jpg?v=1525393972?t=1700574968"
     }
   ],
   "developers": [
