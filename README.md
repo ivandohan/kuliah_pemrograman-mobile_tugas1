@@ -1,9 +1,9 @@
 # Tugas Mata Kuliah
 # Pemrograman Mobile - Tugas 1
 
-### ``Simple Directory App``
+### ``The Direktori``
 
-#### _In Progress_
+#### [Dohan]:  _In Progress_
 
 ## Pre-view
 The image is too huge to be rendered. Click the following link to see the snapshots.
