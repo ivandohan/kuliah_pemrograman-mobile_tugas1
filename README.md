@@ -6,7 +6,19 @@
 #### _In Progress_
 
 ## Pre-view
-Available soon...
+The image is too huge to be rendered. Click the following link to see the snapshots.
+
+
+`1. Demo`
+
+`2. Landing Screen`: [Click Here](./pm-t1-snapshots/landing-page1.png)
+
+
+`3. Students Screen`: [Click Here](./pm-t1-snapshots/person-list.png)
+
+
+`2. Student Detail Screen`: [Click Here](./pm-t1-snapshots/person-detail.png)
+
 
 ## Description
 This application is primarily concerned with displaying detailed data from a number of students and professors who have been registered in the database.
