@@ -9,7 +9,7 @@
 The image is too huge to be rendered. Click the following link to see the snapshots.
 
 
-`1. Demo`
+`1. Demo` ![Running Program](https://github.com/ivandohan/kuliah_pemrograman-mobile_tugas1/assets/89825364/29e01fd3-abe4-458b-a615-99f27f216c73)
 
 `2. Landing Screen`: [Click Here](./pm-t1-snapshots/landing-page1.png)
 
