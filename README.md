@@ -8,8 +8,9 @@
 ## Pre-view
 The image is too huge to be rendered. Click the following link to see the snapshots.
 
-
 `1. Demo`
+
+https://github.com/ivandohan/kuliah_pemrograman-mobile_tugas1/assets/89825364/62aec324-61a6-40a2-9ffa-2e7cfd9400be
 
 `2. Landing Screen`: [Click Here](./pm-t1-snapshots/landing-page1.png)
 
