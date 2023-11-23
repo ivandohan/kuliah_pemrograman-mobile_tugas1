@@ -46,4 +46,5 @@ The API is intended to be _**extremely simple, with no security.**_
 * `[20/11/2023]` : Make a client application with only two screens, Splash and Home. There is no extra functionality provided, just simply render a text.
 * `[21/11/2023]` : Develop person list screen for students type only and its detail.
 * `[22/11/2023]` : Add more styling and adjust some box-constraints. Student type screen is already set!
+* `[23/11/2023]` : Frozen.
 
