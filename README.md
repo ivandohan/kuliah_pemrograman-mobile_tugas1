@@ -35,7 +35,7 @@ The API is intended to be _**extremely simple, with no security.**_
 
 ## The Developers
 * Ivandohan Samuel `@ivandohan`
-* Deza Banjarnahor `@dezazzz`
+* Deza Banjarnahor `@dezazz`
 * Steven Manurung `@steven_manurung`
 * Vita Sariani `@vita`
 * Trifine Laurensi `@trifine`
