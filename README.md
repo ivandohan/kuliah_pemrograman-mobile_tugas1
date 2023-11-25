@@ -31,7 +31,7 @@ with the user, whereas the _server_ is the component that processes the data tra
 The API is intended to be _**extremely simple, with no security.**_
 
 **Client**: `Flutter`
-**API Server**: `Gin-Gonic ~ Go`
+**API Server**: `Gin ~ Go`
 
 ## The Developers
 * Ivandohan Samuel `@ivandohan`
