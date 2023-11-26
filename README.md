@@ -3,7 +3,7 @@
 
 ### ``The Direktori``
 
-#### [Dohan]:  _In Progress_
+#### [Dohan]:  _Frozen_
 
 ## Pre-view
 The image is too huge to be rendered. Click the following link to see the snapshots.
