@@ -3,7 +3,7 @@
 
 ### ``The Direktori``
 
-#### [Dohan]:  _Frozen_
+#### [Dohan]: (status): _Frozen_
 
 ## Pre-view
 The image is too huge to be rendered. Click the following link to see the snapshots.
